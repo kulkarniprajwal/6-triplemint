@@ -1,4 +1,4 @@
-# 6-triplemint
+# Restaurant Reservation System
 This is a full-stack responsive website which focuses on Online Restraurant Order/Reservation.
 
 ![about](https://user-images.githubusercontent.com/51396834/84576848-5c83c400-add5-11ea-910f-aa495c747fc3.jpg)
