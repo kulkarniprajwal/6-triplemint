@@ -4,12 +4,11 @@ This is a full-stack responsive website which focuses on Online Restraurant Orde
 
 Stack Used : MongoDB, Express.js, Angular, Node.js
 
-![about](https://user-images.githubusercontent.com/51396834/84576848-5c83c400-add5-11ea-910f-aa495c747fc3.jpg)
-
-
-
 
 ![main](https://user-images.githubusercontent.com/51396834/84576871-77563880-add5-11ea-9711-8b5bb74f771a.jpg)
+![about](https://user-images.githubusercontent.com/51396834/84576848-5c83c400-add5-11ea-910f-aa495c747fc3.jpg)
+
 ![form1](https://user-images.githubusercontent.com/51396834/84576863-6d343a00-add5-11ea-9fcc-14da81e5b91d.jpg)
 
 ![order](https://user-images.githubusercontent.com/51396834/84576875-8341fa80-add5-11ea-9b6a-e9a0c9d3279a.jpg)
+![image](https://user-images.githubusercontent.com/51396834/97100355-82d93a80-16b8-11eb-95fb-7bea6c40fcb8.png)
